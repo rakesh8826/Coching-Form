@@ -1,0 +1,40 @@
+.home1{
+    width: 1005;height: 300px;
+    background:white;
+    color:royalblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50ex;
+}
+.table{
+    color:blue;
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    width: 1005;
+  
+}
+.language li {
+    color:green;
+    margin-right: 70ex;
+    
+}
+
+
+input[type=text],input[type=text],input[type=number]{
+    width: 200%;
+    padding: 4px 6px;
+    margin: 0px 9px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+
+input[type=submit]{
+    background-color: green;
+    border:none;
+    color:white;
+    padding:8px 36px
+}

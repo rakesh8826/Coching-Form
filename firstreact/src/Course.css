@@ -1,0 +1,8 @@
+.course{
+    width: 1005;height: 300px;
+   
+    color:royalblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

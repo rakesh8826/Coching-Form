@@ -1,0 +1,18 @@
+.heading h1{
+border-color: rgb(255, 0, 234);
+
+   justify-content: flex-end;
+   color:green
+}
+.right{
+   position: absolute;
+    display: inline-block;
+    /* border: 2px solid yellow; */
+    right: 34px;
+    top: 19px;
+   
+}
+.right h4{
+   margin:1%;
+   color:red;
+}

@@ -1,0 +1,15 @@
+input[type=text],input[type=text],input[type=number],input[type=text]{
+    width: 99%;
+    padding: 4px 6px;
+    margin: 0px 9px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+
+input[type=submit]{
+    background-color: green;
+    border:none;
+    color:white;
+    padding:8px 36px
+}

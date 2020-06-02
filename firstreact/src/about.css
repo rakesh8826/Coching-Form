@@ -1,0 +1,15 @@
+.about{
+    width: 1005;height: 300px;
+    color:royalblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 121ex;
+    margin-top: 8ex;
+}
+.about h4{
+    color:green
+}
+.address{
+    margin-left: 0ex;
+}
